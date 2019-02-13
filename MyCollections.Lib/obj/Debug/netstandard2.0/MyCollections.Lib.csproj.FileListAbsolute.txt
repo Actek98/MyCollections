@@ -1,0 +1,9 @@
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\bin\Debug\netstandard2.0\MyCollections.Lib.deps.json
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\bin\Debug\netstandard2.0\MyCollections.Lib.dll
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\bin\Debug\netstandard2.0\MyCollections.Lib.pdb
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\obj\Debug\netstandard2.0\MyCollections.Lib.csprojAssemblyReference.cache
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\obj\Debug\netstandard2.0\MyCollections.Lib.csproj.CoreCompileInputs.cache
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\obj\Debug\netstandard2.0\MyCollections.Lib.AssemblyInfoInputs.cache
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\obj\Debug\netstandard2.0\MyCollections.Lib.AssemblyInfo.cs
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\obj\Debug\netstandard2.0\MyCollections.Lib.dll
+F:\Ilya\GIT_rep\MyCollections\MyCollections.Lib\obj\Debug\netstandard2.0\MyCollections.Lib.pdb
