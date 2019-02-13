@@ -168,14 +168,12 @@ namespace MyCollections.Lib
 
         private ListItem GetItem(T value)
         {
-            ListItem tmp = _head._next;
-            ListItem buf = _head;
-            while (tmp != null)
+            ListItem tmp = _head;
+            while (tmp._next != null)
             {
-                if (tmp._value.Equals(value))
-                    return buf;
+                if (tmp._next._value.Equals(value))
+                    return tmp;
                 tmp = tmp._next;
-                buf = buf._next;
             }
             return null;
         }
